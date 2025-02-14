@@ -9,7 +9,7 @@ function evenNumber (numbers){
             
         }
     }
-    return number
+
    
 }
 const number = [11, 44, 66, 13, 97, 55]

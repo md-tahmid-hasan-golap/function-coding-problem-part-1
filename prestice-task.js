@@ -44,3 +44,7 @@ function sumArray (numbers){
 const array = [12, 44, 66, 33, 98];
 const result = sumArray(array);
 console.log(result)
+
+
+// prestice task number  -  4
+
