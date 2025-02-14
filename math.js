@@ -1,0 +1,11 @@
+// const big = Math.max(12, 44, 66, 543)
+// console.log(big)
+// const small = Math.min(12, 44, 66, 543)
+// console.log(small)
+
+// const rounded = Math.round(10.8)
+// console.log(rounded)
+// const flore = Math.floor(10.8)
+// console.log(flore)
+const cling = Math.ceil(2.8)
+console.log(cling)
