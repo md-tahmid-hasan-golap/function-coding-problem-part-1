@@ -29,3 +29,18 @@ const output2 = addNumber(21)
 console.log(output2)
 const output3 = addNumber(20)
 console.log(output3)
+
+// prestice task number  -  3
+
+function sumArray (numbers){
+ let sum = 0;
+    for(let number of numbers){
+        console.log(number)
+        sum = sum + number
+    }
+    return sum
+}
+
+const array = [12, 44, 66, 33, 98];
+const result = sumArray(array);
+console.log(result)
