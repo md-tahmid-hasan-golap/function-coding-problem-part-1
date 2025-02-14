@@ -1,0 +1,31 @@
+// prestice task number  -  1
+
+function multipole(a, b, c, d){
+    const gunFall = a * b * c * d;
+    return gunFall;
+}
+
+
+
+const output = multipole(10, 33, 55, 87);
+console.log(output)
+
+// prestice task number  -  2
+
+function addNumber (number){
+    console.log(number)
+    if(number % 2 === 0){
+        const num = number * 2;
+        console.log(num)
+    }
+  else{
+   if( number % 2 === 1){
+    const num1 = number / 2;
+    console.log(num1)
+   }
+  }
+}
+const output2 = addNumber(21)
+console.log(output2)
+const output3 = addNumber(20)
+console.log(output3)
